@@ -1,0 +1,25 @@
+{
+  "name": "Dopamine roothide",
+  "identifier": "com.dopamineroothide.repo",
+  "iconURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRup5Q_j74Q-GN3RAfqRNgczQ4r-G7XsXrtczB-cMkhhw&s",
+  "tintColor": "#0a8981",
+  "apps": [
+    {
+      "name": "dopamine",
+      "bundleIdentifier": "com.opa334.Dopamine-roothide",
+      "developerName": "roothideDev",
+      "subtitle": "A jailbreaking utility",
+      "localizedDescription": "Open-source integration of roothide and Dopamine 3.x",
+      "iconURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRup5Q_j74Q-GN3RAfqRNgczQ4r-G7XsXrtczB-cMkhhw&s",
+      "tintColor": "#0a8981",
+      "version": "3.0.13-30",
+      "versionDate": "2026-10-8",
+      "versionDescription": "bug fixes and stability enhancements",
+      "downloadURL": "sha256:98bc39c88161da1671eda56bd4139c85507b9089a8fdae80b333e975b88438f9",
+      "size": 52,
+      "screenshotURLs": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9qHB3Pe7SJ2P3VmTLguMBoYzjqKSkm9X9enuMEJFcZ8mpOZpLCdjJ6fc&s=10"
+      ]
+    }
+  ]
+}
