@@ -22,6 +22,20 @@
       "screenshotURLs": [
         "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9qHB3Pe7SJ2P3VmTLguMBoYzjqKSkm9X9enuMEJFcZ8mpOZpLCdjJ6fc&s=10"
       ]
+    },
+    {
+      "name": "dopamine",
+      "bundleIdentifier": "com.opa334.Dopamine",
+      "developerName": "opa334 and more",
+      "subtitle": "A jailbreaking utility",
+      "localizedDescription": "A rootless semi-untethered jailbreak for iOS 15.0 - 17.3.1 (arm64e), iOS 15.0 - 18.7.1, 26.0 - 26.0.1 (A12/A13) and iOS 15.0 - 18.7.1 (arm64).",
+      "iconURL": "https://private-user-images.githubusercontent.com/52459150/238158404-ed04dd3e-d879-456d-9aa3-d4ed44819c7e.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3OTUzNTQ2NDgsIm5iZiI6MTc5NTM1NDM0OCwicGF0aCI6Ii81MjQ1OTE1MC8yMzgxNTg0MDQtZWQwNGRkM2UtZDg3OS00NTZkLTlhYTMtZDRlZDQ0ODE5YzdlLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjExMjIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYxMTIyVDEzMzIyOFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTZmY2FmOGYyZWM2MzI1YmI4MjcwNjM0OGQxZjY2NWRlYjJmZDkwZGY3ODJlZjk2YTNjMDdlMWRlMzk1YjFhNmYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRnBuZyJ9.hGp_htK60CpV3vCalYWZarJRz7Gr5V40AFya5tplDaY",
+      "tintColor": "#0a8981",
+      "version": "3.0.13",
+      "versionDate": "2026-10-3",
+      "versionDescription": "FIx a bug in posix_spawn hook where changes to the passed attribute structure would persist after the function returned, causing unwanted behavior to happen when the caller reuses the same attribute structure for another call (In practice this fixes Zebra not working properly on iOS 17.6+)\nImprove logic that redirects SpringBoard snapshots in rootlesshook (Contributed by @verygenericname)",
+      "downloadURL": "https://github.com/opa334/Dopamine/releases/latest/download/Dopamine.ipa",
+      "size": 52
     }
   ]
 }
