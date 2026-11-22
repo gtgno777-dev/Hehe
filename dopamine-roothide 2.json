@@ -1,6 +1,8 @@
 {
   "name": "Dopamine roothide",
   "identifier": "com.dopamineroothide.repo",
+  "subtitle": "Bách’s repo",
+  "description": "For friends or a new device",
   "iconURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRup5Q_j74Q-GN3RAfqRNgczQ4r-G7XsXrtczB-cMkhhw&s",
   "tintColor": "#0a8981",
   "apps": [
